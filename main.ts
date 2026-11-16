@@ -1,5 +1,6 @@
 // ai-excited-01 entry program (Node 22, standard library only).
-// The entry is the image entry.png beside this file; the program copies it
+// Re-recorded in this session under the third fresh recording (01a1e42d):
+// the entry is the image entry.png beside this file; the program copies it
 // byte for byte to the output directory so the judge sees exactly those bytes.
 // Deterministic: a plain copy, no timestamps, no randomness.
 //
